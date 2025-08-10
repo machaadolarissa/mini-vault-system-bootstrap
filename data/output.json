@@ -1,0 +1,6 @@
+{
+  "model": "test-model-v1",
+  "input_prompt": "Hello world",
+  "result": "This is a stubbed inference response",
+  "timestamp": "2025-08-10T01:36:44Z"
+}
